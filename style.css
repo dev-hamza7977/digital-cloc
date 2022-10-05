@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 100%;
+    height: 100vh;
+    background: #0f3854;
+    background: radial-gradient(ellipse at center, #0a2e38 0%, #000000 70%);
+    color: #fff;
+    text-align: center;
+    font-weight: 300;
+    padding-top: 50px;
+    font-size: 30px;
+    margin: 0;
+}
+
+.fonts {
+    font-size: 50px;
+    border: 4px solid blue;
+}
+
+h1 {
+    margin: 0;
+    /* padding-top: 40vh; */
+    font-family: cursive;
+    position: absolute;
+    top: 50%;
+    left: 75vh;
+}
+
+.clock {
+    color: rgb(0, 196, 240);
+    padding: 30px 50px;
+}
